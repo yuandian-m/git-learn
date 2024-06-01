@@ -1,1 +1,1 @@
-test文件
+const test  = '这是一个测试文件'
