@@ -1,1 +1,3 @@
-test文件
+function test(){
+    console.log(123);
+}
